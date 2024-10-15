@@ -224,7 +224,7 @@ body {
     cursor: pointer;
 }
 
-/* Highlight selected row */
+
 .selected-row {
     background-color: #d1e7fd;
 }
